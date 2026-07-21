@@ -74,9 +74,9 @@ Exemplos:
 
 Uma técnica prática consiste em ler a mão de trás para frente. A combinação A-2-3-5-7 é uma “sete-cinco”, enquanto A-2-3-6-7 é uma “sete-seis”. A sete-cinco é melhor.
 
-## 2. O verdadeiro objetivo no Omaha Hi-Low Split: conquistar o scoop
+## 2. O verdadeiro objetivo: conquistar o scoop
 
-O pote é dividido em duas metades quando há uma low qualificada:
+No Omaha Hi-Low Split, o pote é dividido em duas metades quando há uma low qualificada:
 
 - metade para a melhor high;
 - metade para a melhor low.
@@ -215,9 +215,9 @@ Isolar um jogador fraco pode ser vantajoso quando sua mão possui boa cobertura 
 
 Se você possui nut low garantido e poderoso redraw para a high, expulsar jogadores que buscam apenas a high pode reduzir seu valor. A finalidade da aposta deve ser clara: extrair, proteger, isolar, induzir ou aplicar pressão.
 
-## 6. Leitura do flop no Omaha Hi-Low Split
+## 6. Leitura do flop
 
-O flop revela grande parte da estrutura da mão. Em vez de perguntar somente “acertei alguma coisa?”, avalie:
+A leitura do flop no Omaha Hi-Low Split revela grande parte da estrutura da mão. Em vez de perguntar somente “acertei alguma coisa?”, avalie:
 
 1. existe low possível agora ou no turn?
 2. qual é o nut low atual ou o melhor draw?
@@ -329,9 +329,9 @@ No Omaha Hi-Low, a dominação pode ocorrer de diferentes formas:
 
 O especialista avalia a mão atual e a qualidade dos redraws. Ter o nuts sem redraw pode ser menos confortável do que parece.
 
-## 10. Estratégia no turn no Omaha Hi-Low Split
+## 10. Estratégia no turn
 
-O turn aumenta o tamanho potencial do erro. Agora há apenas uma carta por vir, as equidades ficam mais definidas e as apostas podem comprometer grande parte do stack.
+O turn do Omaha Hi-Low Split aumenta o tamanho potencial do erro. Agora há apenas uma carta por vir, as equidades ficam mais definidas e as apostas podem comprometer grande parte do stack.
 
 Perguntas essenciais:
 
@@ -358,9 +358,9 @@ A aposta deve possuir uma finalidade:
 - negação de equidade;
 - preparação do river.
 
-## 11. Estratégia no river no Omaha Hi-Low Split
+## 11. Estratégia no river
 
-No river, não existem mais draws. A decisão deve ser baseada em valor de showdown, distribuição do pote e ranges.
+No river do Omaha Hi-Low Split, não existem mais draws. A decisão deve ser baseada em valor de showdown, distribuição do pote e ranges.
 
 Antes de apostar, pergunte:
 
@@ -435,7 +435,9 @@ Durante uma partida, não é necessário obter precisão matemática absoluta. C
 
 Quanto menor a parcela esperada, melhores precisam ser seus pot odds.
 
-## 14. Ajustes do Omaha Hi-Low Split por formato
+## 14. Ajustes por formato
+
+Os formatos de Omaha Hi-Low Split mudam o valor das apostas, a frequência de showdowns e a pressão sobre os stacks.
 
 ### 14.1 Fixed-Limit Omaha Hi-Low
 
@@ -539,9 +541,9 @@ Quanto mais participantes, maior a chance de alguém possuir uma parte forte e p
 
 A falta de informação amplifica erros em todas as streets.
 
-## 17. Gestão de bankroll no Omaha Hi-Low Split
+## 17. Gestão de bankroll e controle emocional
 
-Omaha Hi-Low apresenta variância causada por potes multiway, divisões e grandes swings. A gestão de bankroll deve considerar:
+A gestão de bankroll no Omaha Hi-Low Split precisa considerar a variância causada por potes multiway, divisões e grandes swings. A gestão de bankroll deve considerar:
 
 - formato;
 - limite;
@@ -564,9 +566,9 @@ Princípios essenciais:
 
 O objetivo da gestão não é impedir derrotas. É preservar sua capacidade de continuar jogando e estudando sem comprometer sua vida financeira.
 
-## 18. Método de estudo do Omaha Hi-Low Split
+## 18. Método de estudo deliberado
 
-Jogar muitas mãos não garante evolução. É necessário estudar com objetivos específicos.
+O estudo deliberado de Omaha Hi-Low Split exige mais do que jogar muitas mãos. É necessário estudar com objetivos específicos.
 
 ### 18.1 Classifique mãos iniciais
 
@@ -631,7 +633,9 @@ Registre:
 - padrões dos adversários;
 - conceito a estudar na próxima sessão.
 
-## 19. Checklist do Omaha Hi-Low Split por street
+## 19. Checklist por street
+
+Este checklist de Omaha Hi-Low Split organiza as decisões essenciais em cada etapa da mão.
 
 ### Pré-flop
 
@@ -671,7 +675,9 @@ Registre:
 - Uma mão melhor desiste?
 - Qual é o risco de raise?
 
-## 20. Código de disciplina no Omaha Hi-Low Split
+## 20. Código de disciplina do jogador vencedor
+
+A disciplina no Omaha Hi-Low Split pode ser resumida nas seguintes regras:
 
 1. Não supervalorize A-2 sem suporte.
 2. Não persiga low sem considerar quartering.
