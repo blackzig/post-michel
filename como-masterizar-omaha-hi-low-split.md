@@ -269,7 +269,7 @@ Mãos A-2-3-X e A-2-4-X possuem valor estrutural superior a A-2 acompanhado de d
 
 ## 8. Quartering: ganhar fichas e ainda perder dinheiro
 
-O **quartering** ocorre quando dois jogadores empatam na melhor low e outro jogador, ou um deles, vence a high.
+No Omaha Hi-Low Split, o **quartering** ocorre quando dois jogadores empatam na melhor low e outro jogador, ou um deles, vence a high.
 
 Imagine um pote de R$ 400:
 
@@ -471,6 +471,8 @@ Em torneios, o valor das fichas não é linear. Próximo à bolha ou aos saltos 
 Stacks curtos reduzem a capacidade de realizar equidade em várias streets. Mãos com valor imediato, nut potential e cobertura para ambos os lados tornam-se ainda mais importantes.
 
 ## 15. Perfis de adversários e exploração
+
+No Omaha Hi-Low Split, reconhecer padrões dos adversários permite escolher linhas mais lucrativas e evitar disputas marginais.
 
 ### Jogador loose-passivo
 
