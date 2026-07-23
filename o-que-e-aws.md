@@ -1,6 +1,6 @@
 ---
 title: "O que é AWS? Entenda como funciona a nuvem da Amazon"
-seo_title: "O que é AWS? Como a nuvem da Amazon funciona"
+seo_title: "O que é AWS? 7 conceitos para entender a nuvem"
 slug: "o-que-e-aws"
 meta_description: "Descubra o que é AWS, como funciona a nuvem da Amazon e entenda segurança compartilhada, escalabilidade, elasticidade, serviços e custos."
 focus_keyphrase: "o que é AWS"
@@ -20,6 +20,10 @@ tags:
   - "Infraestrutura"
   - "DevOps"
 excerpt: "Uma introdução completa à AWS, seus principais serviços, modelo de segurança, escalabilidade, elasticidade, alta disponibilidade e formas de cobrança."
+featured_image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Amazon_Web_Services_2025.svg/1280px-Amazon_Web_Services_2025.svg.png"
+featured_image_alt: "O que é AWS: logotipo da plataforma de computação em nuvem Amazon Web Services"
+featured_image_title: "O que é AWS — Amazon Web Services"
+featured_image_caption: "Logotipo da Amazon Web Services, de Amazon.com, Inc. e Koto, disponibilizado como imagem de domínio público via Wikimedia Commons. AWS é uma marca registrada."
 ---
 
 # O que é AWS? Entenda como funciona a nuvem da Amazon
@@ -31,6 +35,8 @@ Na infraestrutura tradicional, uma empresa compra servidores, prepara um espaço
 Isso não significa apenas colocar arquivos em um servidor remoto. A computação em nuvem muda a maneira como os sistemas são planejados, disponibilizados, protegidos, ampliados e cobrados. Conceitos como responsabilidade compartilhada, escalabilidade, elasticidade e alta disponibilidade tornam-se essenciais.
 
 Este artigo apresenta esses fundamentos e atualiza alguns pontos importantes da aula **“O que é AWS”**, da Cloud Treinamentos.
+
+Para entender **o que é AWS** de verdade, não basta decorar nomes como EC2, S3 e Lambda. É preciso perceber como cada serviço participa de uma arquitetura e quais responsabilidades continuam nas mãos do cliente.
 
 ## O que é AWS em termos práticos?
 
@@ -51,7 +57,9 @@ Todos esses recursos podem ser encontrados na AWS. Eles podem ser combinados par
 
 A principal mudança é que a infraestrutura passa a ser tratada de maneira programável. Recursos podem ser criados pelo Console de Gerenciamento, pela linha de comando, por APIs ou por ferramentas de infraestrutura como código.
 
-## Principais serviços da AWS
+Assim, uma resposta prática para **o que é AWS** envolve tanto os recursos disponíveis quanto a possibilidade de automatizar sua criação, configuração e remoção.
+
+## Principais serviços para entender o que é AWS
 
 A quantidade de serviços disponíveis pode assustar quem está começando. Entretanto, não é necessário conhecer todo o catálogo para compreender a plataforma. Alguns serviços representam bem as categorias fundamentais:
 
@@ -68,7 +76,9 @@ A quantidade de serviços disponíveis pode assustar quem está começando. Entr
 
 Esses nomes aparecem com frequência porque representam necessidades comuns: computação, armazenamento, banco de dados, rede, segurança e observabilidade.
 
-## IaaS, PaaS e SaaS
+Ao pesquisar **o que é AWS**, você encontrará muitos outros produtos. Começar por essas categorias evita a tentativa improdutiva de memorizar todo o catálogo de uma só vez.
+
+## O que é AWS nos modelos IaaS, PaaS e SaaS
 
 A aula apresenta três modelos importantes de computação em nuvem. Eles ajudam a compreender quanto da infraestrutura fica sob controle do cliente e quanto é administrado pelo provedor.
 
@@ -96,9 +106,11 @@ Na **Software as a Service**, o cliente utiliza uma aplicação pronta pela inte
 
 Os limites entre os modelos nem sempre são absolutos. O ponto central é entender que a divisão de responsabilidades muda conforme o serviço utilizado.
 
-## Segurança da nuvem e segurança na nuvem
+## O que é AWS no modelo de segurança compartilhada
 
 Um dos ensinamentos mais importantes da aula é que colocar uma aplicação na AWS não a torna automaticamente segura. A AWS adota o **modelo de responsabilidade compartilhada**.
+
+Portanto, compreender **o que é AWS** também significa conhecer os limites entre aquilo que o provedor protege e aquilo que o cliente precisa configurar.
 
 Esse modelo separa a segurança em duas partes:
 
@@ -119,6 +131,8 @@ Uma falha de configuração pode expor informações mesmo que toda a infraestru
 ## Escalabilidade vertical e horizontal
 
 **Escalabilidade** é a capacidade de aumentar os recursos disponíveis para atender a uma demanda maior. Ela pode ocorrer de duas maneiras.
+
+Esse conceito faz parte de qualquer explicação consistente sobre **o que é AWS**, pois a nuvem permite ajustar a capacidade sem comprar antecipadamente toda a infraestrutura física.
 
 ### Escala vertical
 
@@ -156,6 +170,8 @@ O ambiente foi escalado para suportar o pico e depois reduzido. Essa adaptação
 
 Entretanto, a redução não acontece sozinha em todo serviço. É necessário escolher uma arquitetura compatível e configurar políticas, métricas e limites apropriados.
 
+Uma visão completa sobre **o que é AWS** relaciona elasticidade, automação e monitoramento, pois a capacidade só deve variar quando existem regras confiáveis para orientar essa mudança.
+
 ## Alta disponibilidade na AWS
 
 Alta disponibilidade é a capacidade de manter um serviço funcionando mesmo quando parte da infraestrutura apresenta falha.
@@ -173,9 +189,13 @@ Uma aplicação pode distribuir seus componentes entre mais de uma zona. Se uma 
 
 Portanto, escalar horizontalmente não garante alta disponibilidade por si só. A aplicação, o banco de dados, a rede e os mecanismos de recuperação precisam ser planejados para essa finalidade.
 
-## Como funcionam os custos da AWS?
+Ao estudar **o que é AWS**, observe que disponibilidade é uma característica da arquitetura completa, e não uma propriedade automática de cada recurso criado.
+
+## O que é AWS em relação aos custos?
 
 Um dos princípios da computação em nuvem é o pagamento conforme o uso, conhecido como **pay as you go**. Em vários serviços, não existe a necessidade de comprar equipamentos antecipadamente ou assumir um contrato de capacidade física fixa.
+
+Quem está aprendendo **o que é AWS** deve compreender que pagamento conforme o uso não significa ausência de planejamento financeiro. Recursos esquecidos ou dimensionados incorretamente podem gerar cobranças.
 
 Entretanto, “usou, pagou; não usou, não pagou” é uma simplificação. Cada serviço possui sua própria unidade de cobrança. Os custos podem considerar:
 
@@ -200,9 +220,11 @@ A AWS também oferece diferentes opções comerciais, como:
 
 Uma geração mais recente de instâncias frequentemente oferece melhor relação entre preço e desempenho, mas isso não significa que todo modelo novo será sempre mais barato em qualquer configuração. A comparação deve considerar preço, arquitetura do processador, memória, desempenho e compatibilidade da aplicação.
 
-## Como funciona o AWS Free Tier atualmente?
+## O que é AWS Free Tier e como funciona atualmente?
 
 O modelo apresentado em treinamentos antigos — com vários serviços gratuitos durante os primeiros 12 meses — não deve ser tratado como regra para todas as contas novas.
+
+Esse é um ponto importante ao explicar **o que é AWS** atualmente, porque as condições do programa gratuito mudaram e precisam ser consultadas antes da criação da conta.
 
 De acordo com as condições disponíveis em julho de 2026, novos clientes podem receber até **US$ 200 em créditos**. O **plano gratuito** permite explorar serviços selecionados por até seis meses ou até o esgotamento dos créditos. Existem também mais de 30 serviços com ofertas sempre gratuitas, respeitando limites mensais.
 
@@ -213,6 +235,8 @@ Antes de criar recursos, consulte a página oficial do [AWS Free Tier](https://a
 ## Exemplo de arquitetura para uma aplicação Java
 
 Para um desenvolvedor Java, a AWS pode hospedar uma aplicação Spring Boot ou Jakarta EE de diferentes formas. Uma arquitetura introdutória poderia utilizar:
+
+Transformar a pergunta **o que é AWS** em uma experiência prática pode começar justamente pela implantação controlada de uma pequena API Java.
 
 1. **Elastic Load Balancing** para receber e distribuir as requisições;
 2. **Amazon EC2**, Amazon ECS ou outro serviço de computação para executar a aplicação;
@@ -240,7 +264,11 @@ Entre os benefícios mais comuns estão:
 - modelos de cobrança adaptados a diferentes cargas;
 - integração entre segurança, monitoramento, redes e aplicações.
 
+Esses benefícios ajudam a responder **o que é AWS** do ponto de vista das empresas: uma plataforma capaz de reduzir o tempo de provisionamento e oferecer diferentes caminhos para evolução da infraestrutura.
+
 Esses benefícios não surgem automaticamente. Uma arquitetura mal dimensionada pode ficar cara, insegura ou difícil de administrar. A nuvem amplia as possibilidades, mas também exige governança e conhecimento técnico.
+
+Por isso, saber **o que é AWS** inclui reconhecer benefícios e limitações, em vez de tratar a nuvem como uma solução automática para qualquer problema.
 
 ## Cuidados ao começar na AWS
 
@@ -258,6 +286,8 @@ Para estudar com segurança e reduzir o risco de cobranças inesperadas:
 10. leia a página de preços antes de ativar um serviço.
 
 O orçamento ajuda a acompanhar o consumo, mas não deve ser confundido com um bloqueio automático de todos os gastos. Alertas servem para avisar que um limite foi atingido ou está próximo.
+
+Depois de compreender **o que é AWS**, o próximo passo deve ser criar laboratórios pequenos, acompanhar o faturamento e remover cada recurso ao final do exercício.
 
 ## Perguntas frequentes sobre AWS
 
@@ -277,6 +307,8 @@ No contexto do Amazon EC2, uma instância pode ser entendida como um servidor vi
 
 A AWS é uma plataforma comercial. Existem créditos, testes e ofertas gratuitas com limites específicos, mas a utilização fora desses limites pode gerar cobrança. As condições devem ser verificadas na página oficial do Free Tier.
 
+Ao descobrir **o que é AWS**, não confunda a existência do Free Tier com gratuidade permanente e ilimitada para todos os recursos.
+
 ### AWS é segura?
 
 A AWS protege a infraestrutura que sustenta seus serviços e oferece diversas ferramentas de segurança. O cliente continua responsável por proteger identidades, dados, aplicações e configurações, de acordo com o serviço utilizado.
@@ -284,6 +316,10 @@ A AWS protege a infraestrutura que sustenta seus serviços e oferece diversas fe
 ### É possível hospedar aplicações Java na AWS?
 
 Sim. Aplicações Java podem ser executadas em máquinas virtuais, contêineres, serviços gerenciados e funções, dependendo das características do projeto.
+
+Esse é um exemplo prático de **o que é AWS** para desenvolvedores: uma plataforma na qual computação, banco de dados, armazenamento, segurança e monitoramento podem trabalhar de forma integrada.
+
+Para continuar o aprendizado, consulte também os [outros conteúdos sobre computação em nuvem](https://micheladrianomedeiros.com/category/computacao-em-nuvem/) publicados neste site.
 
 ## Referências e materiais complementares
 
