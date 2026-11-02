@@ -129,3 +129,164 @@ Esse texto é anterior à separação formal. Por isso, não devemos ler seu con
 
 Documento: [Biblioteca Brasiliana USP — Lembranças e apontamentos (1821)](https://digital.bbm.usp.br/handle/bbm/4175).
 
+
+## 8. 1822: José Bonifácio, D. Pedro e a ruptura com Portugal
+
+Em janeiro de 1822, Bonifácio passou a exercer funções ministeriais ao lado de D. Pedro, na área dos Negócios do Reino e dos Negócios Estrangeiros. A crise com as Cortes portuguesas intensificou o debate sobre autonomia e separação.
+
+Ele se destacou como ministro e conselheiro, participando da articulação política e diplomática de um governo capaz de afirmar sua autoridade.
+
+Mas é indispensável reconhecer outros participantes. **D. Leopoldina** teve atuação importante no encaminhamento de decisões políticas. Jornalistas, militares, políticos provinciais e diferentes grupos da sociedade tomaram parte nos acontecimentos, embora em condições profundamente desiguais.
+
+O **7 de setembro de 1822** é um marco, mas a Independência não aconteceu inteira naquele dia. A ruptura foi precedida por decisões e conflitos e exigiu posterior consolidação.
+
+O Arquivo Nacional conserva, por exemplo, uma **carta de anistia de 18 de setembro de 1822**, na qual D. Pedro e José Bonifácio concediam anistia àqueles que aderissem à causa da Independência. O documento mostra que a organização política do novo Estado continuava em curso depois do episódio do Ipiranga.
+
+Fontes: [Câmara — trajetória política de Bonifácio](https://www2.camara.leg.br/a-camara/documentos-e-pesquisa/arquivo/acervo-por-tipo/sites-tematicos/200-anos-da-assembleia-constituinte/2019) e [Arquivo Nacional — carta de anistia de 1822](https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/documentos/carta-de-anistia-geral-de-d-pedro).
+
+## 9. A Independência não foi pacífica em todas as províncias
+
+Quando contamos a história apenas a partir do Rio de Janeiro, é fácil imaginar que todas as regiões aceitaram imediatamente a separação de Portugal.
+
+Não foi o que ocorreu.
+
+Na **Bahia**, a luta prosseguiu até **2 de julho de 1823**, quando as forças portuguesas foram expulsas de Salvador. Houve confrontos importantes também no Piauí e em outras províncias. As regiões não tinham necessariamente os mesmos interesses, e a adesão ao poder sediado no Rio de Janeiro não foi automática.
+
+Isso muda nossa maneira de avaliar Bonifácio: **seu projeto de unidade foi relevante, mas a preservação territorial envolveu militares, lideranças regionais, populações locais, negociações, violência e disputas que ultrapassaram sua atuação individual**.
+
+Também precisamos rejeitar a ideia de que a separação produziu cidadania igual para todos. O Império permaneceu escravista e hierarquizado.
+
+Fontes: [Arquivo Nacional — Independência na Bahia](https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/especial-bicentenario-da-independencia/apontamentos-sobre-a-independencia-do-brasil-na-bahia) e [Revista Cantareira/UFF — guerras da Independência](https://periodicos.uff.br/cantareira/article/view/30786).
+
+## 10. O projeto de unidade territorial
+
+Uma questão decisiva era saber se as províncias permaneceriam ligadas ao mesmo Estado.
+
+Bonifácio defendia autoridade central forte e a preservação da unidade política. Essa é uma das características mais lembradas de sua atuação.
+
+Mas devemos distinguir **a intenção política** e **o resultado histórico**. A permanência de grande parte da antiga América portuguesa dentro de um Estado envolveu também a monarquia, estruturas administrativas anteriores, interesses de grupos regionais, forças militares e conflitos posteriores.
+
+Não podemos afirmar que José Bonifácio, sozinho, “impediu que o Brasil se dividisse”.
+
+A centralização oferece possibilidades de coordenação e planejamento. Também pode concentrar autoridade, limitar a autonomia regional e reduzir a participação política.
+
+A pergunta para o nosso curso é:
+
+> **Um país territorialmente unido tem mais condições de planejar seu futuro? Sim, potencialmente. Isso garante prosperidade e justiça? Não.**
+
+São relações que dependem de instituições, políticas concretas e distribuição efetiva dos benefícios.
+
+## 11. Diplomacia e soberania
+
+Uma declaração de Independência não bastava para assegurar a existência do novo Estado na ordem internacional. Era necessário lidar com Portugal, outras monarquias, interesses comerciais e reconhecimento diplomático.
+
+Bonifácio participou da condução inicial dos Negócios Estrangeiros. A diplomacia foi parte do trabalho de construção da soberania.
+
+Contudo, não se deve confundir:
+
+- **independência política:** um governo que pretende decidir os rumos do país;
+- **reconhecimento diplomático:** aceitação de sua existência nas relações com outros Estados;
+- **autonomia econômica:** capacidade de produzir, investir e negociar sem dependências excessivas.
+
+Essas três dimensões não avançaram automaticamente juntas em 1822.
+
+Fonte: [Fundação Alexandre de Gusmão — biografia diplomática](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/personalidades-historicas/jose-bonifacio-ribeiro-de-andrada-machado-e-silva).
+
+## 12. O documento antiescravista: proposta de 1823, publicação de 1825
+
+Um dos documentos mais importantes atribuídos a Bonifácio é a **“Representação à Assembleia Geral Constituinte e Legislativa do Império do Brasil sobre a escravatura”**.
+
+É fundamental acertar a cronologia: a proposta foi preparada para a **Constituinte de 1823**, mas **não chegou a ser apresentada à Assembleia antes de sua dissolução**. O texto foi publicado **em Paris, em 1825**.
+
+No documento, Bonifácio criticou o comércio de pessoas escravizadas e os efeitos da escravidão sobre a sociedade. Defendeu o fim do tráfico e um processo de emancipação gradual, com propostas de regulação estatal do poder senhorial, dos castigos, da carga de trabalho, da vida familiar e das condições para alforria.
+
+Essa crítica era relevante porque se dirigia a uma das instituições centrais da economia brasileira.
+
+Precisamos separar, porém, três afirmações:
+
+| Afirmação | Avaliação |
+|---|---|
+| Bonifácio criticou a escravidão em um documento próprio | Sustentada por fonte primária |
+| Propôs extinção do tráfico e emancipação gradual | Sustentada pelo conteúdo do projeto |
+| Aboliu a escravidão no Brasil | Falso: a abolição legal ocorreu apenas em 1888 |
+
+A publicação de 1825 documenta **um projeto de reforma**, não uma lei que Bonifácio tenha colocado em vigor.
+
+Fontes primárias: [Biblioteca Brasiliana da USP — edição de 1825](https://digital.bbm.usp.br/handle/bbm/4492) e [Biblioteca Digital do STF — registro histórico da Representação](https://bibliotecadigital.stf.jus.br/items/24652a62-371b-4511-ac87-0c027cd8fcc0).
+
+## 13. Por que a escravidão era incompatível com uma nação livre?
+
+A escravidão não pode ser analisada apenas como questão de eficiência econômica. Era um sistema de coerção, violência, apropriação do trabalho e negação de liberdade.
+
+Uma sociedade podia conquistar independência política em relação a Portugal e, simultaneamente, negar liberdade a grande parte de seus habitantes.
+
+Essa contradição está no centro da formação do Brasil.
+
+Bonifácio relacionava a superação gradual da escravidão a seu projeto de transformação social. Isso não significa que seu pensamento correspondesse às noções atuais de direitos humanos ou de igualdade racial. Parte de seu argumento era elaborada em termos de ordem social, economia e fortalecimento do Estado.
+
+**Uma crítica histórica importante à escravidão não equivale necessariamente a uma proposta moderna de igualdade.**
+
+A interpretação responsável reconhece o documento, sua importância relativa no contexto e suas limitações.
+
+## 14. O limite moral e político do gradualismo
+
+Uma proposta gradual de emancipação pode ser defendida por seus formuladores como tentativa de reduzir a resistência de grupos poderosos e organizar uma transição. No entanto, **cada adiamento perpetuava a privação de liberdade de pessoas escravizadas**.
+
+Há, assim, duas análises complementares:
+
+**Leitura favorável:** apresentar propostas antiescravistas dentro de uma sociedade dominada por interesses escravistas representava um desafio a uma estrutura poderosa.
+
+**Leitura crítica:** o projeto não foi executado por Bonifácio e suas medidas graduais não significavam liberdade imediata para quem estava submetido ao cativeiro.
+
+Não precisamos esconder uma dimensão para reconhecer a outra. É possível medir a relevância histórica da proposta e examinar rigorosamente sua insuficiência.
+
+## 15. As propostas para os povos indígenas
+
+Bonifácio também formulou os **“Apontamentos para a civilização dos índios bravos do Império do Brasil”**, associados aos debates políticos da Independência e à Constituinte de 1823.
+
+O vocabulário do título pertence à época e exige leitura crítica. O documento propunha estratégias de catequização, aldeamento e integração dos povos indígenas à sociedade nacional.
+
+Em termos contemporâneos, não devemos confundir esse projeto com a defesa plena da **autodeterminação indígena**. A intenção de reduzir certas violências ou organizar políticas de integração podia coexistir com ideias de assimilação, tutela e imposição de valores europeus.
+
+A pergunta principal é: **quem teria o poder de decidir como cada povo deveria viver?**
+
+Um Estado que se constrói sobre um território não pode ser estudado apenas do ponto de vista de suas autoridades. Precisamos considerar as comunidades originárias, suas terras, formas de organização e autonomia.
+
+Fontes: [Arquivo Histórico Parlamentar de Portugal — documento sobre indígenas](https://ahpweb.parlamento.pt/Detalhe/?id=122263&pesq=ps&t=7&tx=brasil), [MultiRio — contextualização](https://multirio.rio.rj.gov.br/index.php/historia-do-brasil/brasil-monarquico/8893-jos%C3%A9-bonif%C3%A1cio-seus-apontamentos-para-a-civiliza%C3%A7%C3%A3o-dos-%C3%ADndios-bravos) e [USP — pesquisa de Wagner Pinheiro Pereira](https://repositorio.usp.br/item/002996471).
+
+## 16. Recursos naturais, mineração e florestas
+
+Outra dimensão de sua trajetória são os estudos sobre minerais, metalurgia, pescarias e florestas.
+
+Bonifácio publicou memórias técnicas ligadas à exploração de recursos e, ainda em Portugal, à utilidade do plantio de bosques.
+
+Podemos relacionar esses interesses a uma ideia importante para o desenvolvimento: **a exploração econômica de um território depende de conhecimento, planejamento e atenção às condições de renovação dos recursos**.
+
+Entretanto, seria anacrônico chamá-lo de ambientalista no sentido atual ou afirmar que implantou uma política ambiental moderna no Brasil. Seu legado nesse tema é principalmente científico, técnico e intelectual.
+
+Fonte bibliográfica: [Arquivo Nacional — José Bonifácio e seus trabalhos](https://mapa.arquivonacional.gov.br/index.php/mapa/centrais-de-conteudo/producao/biografias/431-jose-bonifacio-de-andrada-e-silva).
+
+## 17. Centralização, representação e as tensões do novo Império
+
+A formação de um Estado independente colocou em debate a distribuição do poder.
+
+Uma **Assembleia Constituinte** reuniu-se em 1823 para discutir a organização política do Império. Bonifácio estava associado à defesa de um Executivo forte, mas diferentes grupos divergiam quanto ao papel do imperador, à representação e à autonomia das províncias.
+
+Esse conflito traz uma questão que permanece importante em outras circunstâncias históricas:
+
+> **Como formar um Estado com capacidade de agir sem concentrar tanta autoridade a ponto de enfraquecer o controle político e a representação?**
+
+Não existe resposta automática. Um Estado precisa de capacidade administrativa, mas também de limites ao poder.
+
+## 18. A ruptura de 1823 e o exílio
+
+A relação entre Bonifácio e D. Pedro I se deteriorou. Em 1823, Bonifácio deixou o ministério e passou à oposição.
+
+Em **12 de novembro de 1823**, D. Pedro I dissolveu a Assembleia Constituinte. Bonifácio e seus irmãos foram presos e deportados, seguindo para o exílio na França.
+
+A Constituição imperial foi **outorgada em 25 de março de 1824**, não aprovada pela Assembleia dissolvida.
+
+Esse episódio impede uma narrativa simplificada em que os protagonistas da Independência concordavam sobre tudo. Eles discutiam intensamente a arquitetura política da nova nação.
+
+Fonte: [Senado Federal — Anais da Constituinte de 1823](https://www25.senado.leg.br/web/atividade/anais/constituintes).
+
