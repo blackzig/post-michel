@@ -290,3 +290,262 @@ Esse episódio impede uma narrativa simplificada em que os protagonistas da Inde
 
 Fonte: [Senado Federal — Anais da Constituinte de 1823](https://www25.senado.leg.br/web/atividade/anais/constituintes).
 
+
+## 19. Retorno, tutoria e últimos anos
+
+Bonifácio regressou ao Brasil em **1829**, depois de anos no exílio.
+
+Com a abdicação de D. Pedro I, em **1831**, foi escolhido para tutorar os filhos do ex-imperador, incluindo o futuro D. Pedro II. Essa escolha revela a persistência de vínculos políticos e pessoais apesar dos conflitos anteriores.
+
+Em **1833**, durante a Regência, perdeu a tutoria em meio a disputas e acusações políticas. Passou os anos seguintes longe do centro do poder e morreu em **6 de abril de 1838**.
+
+Sua trajetória não é a de um dirigente que controlou integralmente o futuro do país. É também uma história de oposição, exílio, retorno e afastamento.
+
+Fonte: [Câmara dos Deputados — biografia parlamentar](https://www.camara.leg.br/deputados/50/biografia).
+
+## 20. Linha do tempo essencial
+
+| Ano | Acontecimento | Por que importa |
+|---|---|---|
+| 1763 | Nascimento em Santos | Brasil ainda colonial |
+| 1787–1788 | Formação em Coimbra | Bases científicas e jurídicas |
+| 1790–1800 | Viagem científica europeia | Experiência em pesquisa e técnicas |
+| 1801 | Ensino e funções técnicas em Portugal | Ciência aplicada e administração |
+| 1819 | Retorno ao Brasil | Reencontro com um território politicamente transformado |
+| 1821 | Participação no governo paulista | Debates sobre o futuro da monarquia |
+| 1822 | Ministério junto a D. Pedro | Protagonismo na Independência |
+| 1823 | Constituinte, disputas e exílio | Conflitos sobre a organização do novo Estado |
+| 1825 | Publicação da Representação sobre a escravatura | Registro de seu projeto antiescravista |
+| 1829 | Retorno do exílio | Reaparecimento na política |
+| 1831 | Tutoria dos filhos de D. Pedro I | Nova responsabilidade institucional |
+| 1833 | Afastamento da tutoria | Persistência dos conflitos políticos |
+| 1838 | Morte | Fim de uma longa trajetória científica e política |
+
+## 21. O que realizou e o que apenas propôs?
+
+Esta talvez seja a tabela mais importante da lição. **Ideia, ação e resultado não são sinônimos.**
+
+| Tema | O que podemos sustentar | O que seria um exagero |
+|---|---|---|
+| Ciência | Teve carreira relevante em mineralogia e metalurgia | Criou sozinho a ciência brasileira |
+| Independência | Foi ministro e articulador político importante | Fez a Independência sozinho |
+| Unidade territorial | Defendeu um Estado politicamente unido | Garantiu pessoalmente todas as fronteiras |
+| Diplomacia | Participou da condução inicial da política externa | Conquistou autonomia econômica plena |
+| Escravidão | Formulou um projeto de emancipação gradual | Aboliu a escravidão |
+| Povos indígenas | Propôs políticas de integração e assimilação | Defendeu autodeterminação nos termos atuais |
+| Natureza | Estudou minerais e recursos naturais | Implantou uma política ambiental moderna |
+| Constituição | Participou dos embates de 1823 | Foi responsável pela aprovação da Constituição de 1824 |
+
+## 22. Quatro interpretações possíveis de seu legado
+
+**O protagonista da Independência.** Valoriza a atuação governamental e diplomática de Bonifácio em 1822, sem negar outros agentes.
+
+**O formulador de um projeto de nação.** Destaca que suas preocupações iam além do rompimento: trabalho, território, população, recursos e governo faziam parte de sua agenda.
+
+**O defensor da centralização.** Examina sua preocupação com a unidade, mas questiona os riscos de concentração de poder e restrição da autonomia regional.
+
+**O reformador limitado.** Reconhece propostas ousadas em comparação com determinados interesses de sua época, mas identifica o gradualismo antiescravista, a assimilação indígena e a incapacidade de implementar muitos de seus planos.
+
+Essas leituras não precisam ser tratadas como absolutamente incompatíveis. Elas enfatizam questões diferentes, e cada uma deve ser avaliada à luz de documentos e estudos históricos.
+
+## 23. O experimento contrafactual: sem Bonifácio, o Brasil teria se dividido?
+
+Não sabemos.
+
+Podemos imaginar cenários, mas não demonstrar com certeza um passado que não ocorreu. É preciso levar em conta a presença da monarquia no Rio de Janeiro, as estruturas administrativas herdadas, interesses econômicos e políticos regionais, ações militares e o papel de outros dirigentes.
+
+A posição mais responsável é reconhecer que **Bonifácio foi um agente importante de um processo coletivo**, sem transformar essa importância em prova de que sua ausência produziria necessariamente a fragmentação territorial.
+
+O mesmo cuidado será aplicado aos outros personagens da série. Nenhum projeto nacional depende exclusivamente de uma pessoa.
+
+## 24. Como sua atuação se conecta ao desenvolvimento?
+
+| Dimensão | Contribuição ou proposta | Limite da relação |
+|---|---|---|
+| Soberania | Participação no governo da Independência | A independência não resolveu todas as dependências |
+| Estado nacional | Defesa da unidade e de coordenação central | Centralização não garante boas instituições |
+| Relações externas | Trabalho diplomático do novo governo | Reconhecimento não equivale a autonomia econômica |
+| Trabalho | Crítica à escravidão e proposta gradual | O cativeiro continuou por décadas |
+| Conhecimento | Produção científica e experiência administrativa | A ciência nacional exigiria muitas outras instituições |
+| Meio ambiente | Estudos sobre recursos e bosques | Interesses científicos não são execução de política pública |
+
+A relação com a construção de uma potência é, portanto, **institucional e intelectual**, e não uma transformação econômica diretamente mensurável produzida por Bonifácio.
+
+## 25. Mitos que devemos evitar
+
+**“José Bonifácio fez a Independência.”** Ele teve protagonismo, mas o processo envolveu inúmeros agentes e conflitos regionais.
+
+**“O Brasil ficou unido sem conflitos.”** A consolidação incluiu guerras, diferentes adesões provinciais e disputas de autoridade.
+
+**“Ele aboliu a escravidão.”** Elaborou propostas, mas não a aboliu.
+
+**“Ele tinha uma visão moderna dos direitos indígenas.”** Seus escritos revelam um projeto de assimilação que precisa ser confrontado com a autonomia dos povos originários.
+
+**“A Independência transformou o Brasil em potência.”** A separação política não trouxe automaticamente industrialização, educação universal, produtividade elevada ou cidadania igualitária.
+
+## 26. Como estudar um documento histórico
+
+Pegue a **Representação sobre a escravatura**, disponível na Biblioteca Brasiliana da USP, e faça quatro leituras.
+
+**1. Autoria e data.** Quem escreveu? Quando preparou a proposta? Para qual instituição? Quando o texto foi publicado?
+
+**2. Conteúdo.** Quais problemas denuncia? Quais medidas propõe? Em quais condições?
+
+**3. Execução.** O projeto foi efetivamente debatido, aprovado ou colocado em prática? Que fonte comprova cada etapa?
+
+**4. Ponto de vista.** Quem tem voz no documento? Quem é objeto da política, mas não participa da formulação?
+
+Essas perguntas protegem contra erros comuns, como tratar a existência de uma proposta como se fosse a prova de sua execução.
+
+## 27. Exercício 1 — Fato, interpretação ou hipótese?
+
+Classifique as frases como **fato documental**, **interpretação** ou **hipótese contrafactual**:
+
+**A.** José Bonifácio exerceu funções ministeriais em 1822.
+
+**B.** Sua formação científica ajudou a moldar a maneira como pensava o governo.
+
+**C.** Sem José Bonifácio, o Brasil necessariamente teria se dividido.
+
+**D.** A Representação sobre a escravatura foi publicada em 1825.
+
+**E.** A unidade política pode favorecer a coordenação econômica, mas não garante desenvolvimento.
+
+Justifique as escolhas. Sempre que possível, aponte uma fonte e diga o que ela demonstra — e o que não demonstra.
+
+## 28. Exercício 2 — Escravidão, reforma e resultado
+
+Consulte a descrição da **Representação sobre a escravatura** na USP.
+
+Responda:
+
+1. Qual é a diferença entre proibir o tráfico e libertar imediatamente todas as pessoas escravizadas?
+2. Por que os interesses escravistas dificultavam reformas?
+3. O que distingue um projeto de lei de uma lei efetivamente vigente?
+4. Por que a publicação em 1825 não significa aprovação em 1823?
+5. Como uma proposta pode representar uma crítica importante e ainda ser moralmente insuficiente?
+
+## 29. Exercício 3 — Unidade versus autonomia
+
+Imagine dois participantes do debate constitucional em 1823.
+
+Um afirma: **“Precisamos de um governo central forte para impedir a desunião.”**
+
+Outro responde: **“Precisamos de limites ao centro para evitar a perda da autonomia provincial.”**
+
+Escreva um argumento consistente para cada posição, incluindo consequências desejáveis e riscos. Depois, indique qual documento ou informação histórica poderia ajudar a testar cada argumento.
+
+O objetivo não é escolher um vencedor por preferência pessoal. É compreender um conflito político real.
+
+## 30. Desafio de pesquisa — Uma conclusão própria
+
+Escreva um texto de **dez a quinze linhas** respondendo:
+
+> **José Bonifácio contribuiu principalmente para a Independência imediata ou para a formulação de um projeto de Brasil futuro?**
+
+Sua resposta deverá reunir:
+
+- dois fatos apoiados em documentos;
+- uma interpretação assumidamente sua;
+- uma crítica ou limitação;
+- a distinção entre proposta e resultado;
+- uma conclusão proporcional às evidências.
+
+**Pergunta adicional:** um país pode ser soberano na política e dependente na economia? Explique como esse problema se aplica ao Brasil do século XIX, sem supor que o cenário atual seja idêntico.
+
+## 31. Gabarito comentado do Exercício 1
+
+**A — Fato documental.** A função ministerial aparece em registros biográficos oficiais.
+
+**B — Interpretação.** A carreira científica é documentada, mas sua influência exata sobre cada decisão demanda argumentação.
+
+**C — Hipótese contrafactual não demonstrada.** Não podemos observar o que teria acontecido. A palavra “necessariamente” exige uma certeza inexistente.
+
+**D — Fato documental.** O catálogo da Biblioteca Brasiliana registra a edição de 1825.
+
+**E — Interpretação analítica.** Descreve uma possibilidade de coordenação, não uma regra automática da história.
+
+Os demais exercícios não têm uma única frase correta. A qualidade depende de **argumentação, leitura fiel das fontes e distinção entre evidência e opinião**.
+
+## 32. Fontes históricas e leituras recomendadas
+
+A bibliografia prioriza **documentos primários, acervos públicos e pesquisas históricas identificáveis**.
+
+### Documentos primários
+
+1. **Biblioteca Brasiliana Guita e José Mindlin (USP).** *Lembranças e apontamentos do governo provisório da província de São Paulo para os seus deputados* (1821).  
+   https://digital.bbm.usp.br/handle/bbm/4175
+
+2. **Biblioteca Brasiliana Guita e José Mindlin (USP).** *Representação à Assembleia Geral Constituinte e Legislativa do Império do Brasil sobre a escravatura* (edição de 1825).  
+   https://digital.bbm.usp.br/handle/bbm/4492
+
+3. **Supremo Tribunal Federal — Biblioteca Digital.** Edição da *Representação sobre a escravatura* (1825) e informação sobre a não apresentação à Constituinte dissolvida.  
+   https://bibliotecadigital.stf.jus.br/items/24652a62-371b-4511-ac87-0c027cd8fcc0
+
+4. **Senado Federal.** Anais da Assembleia Geral Constituinte de 1823, inclusive o registro da dissolução.  
+   https://www25.senado.leg.br/web/atividade/anais/constituintes
+
+5. **Arquivo Nacional.** *Carta de anistia geral de D. Pedro* (18 de setembro de 1822), com a participação de José Bonifácio.  
+   https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/documentos/carta-de-anistia-geral-de-d-pedro
+
+6. **Arquivo Histórico Parlamentar de Portugal.** *Apontamentos para a civilização dos índios bárbaros do reino do Brasil* (registro documental de 1821–1822). O título conserva linguagem histórica de sua época.  
+   https://ahpweb.parlamento.pt/Detalhe/?id=122263&pesq=ps&t=7&tx=brasil
+
+### Biografia, contextualização e historiografia
+
+7. **Câmara dos Deputados.** *José Bonifácio de Andrada e Silva — Bicentenário do retorno ao Brasil*.  
+   https://www2.camara.leg.br/a-camara/documentos-e-pesquisa/arquivo/acervo-por-tipo/sites-tematicos/200-anos-da-assembleia-constituinte/2019
+
+8. **Câmara dos Deputados.** Biografia parlamentar de José Bonifácio.  
+   https://www.camara.leg.br/deputados/50/biografia
+
+9. **Fundação Alexandre de Gusmão.** José Bonifácio: formação, carreira científica e diplomacia.  
+   https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/personalidades-historicas/jose-bonifacio-ribeiro-de-andrada-machado-e-silva
+
+10. **Arquivo Nacional.** *Apontamentos sobre a Independência do Brasil na Bahia*.  
+    https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/especial-bicentenario-da-independencia/apontamentos-sobre-a-independencia-do-brasil-na-bahia
+
+11. **SILVA, Rayanne Gabrielle da.** *O processo de independência do Brasil na Bahia e no Piauí: guerra, resistência e vitória (1822–1823).* Revista Cantareira, UFF.  
+    https://periodicos.uff.br/cantareira/article/view/30786
+
+12. **PEREIRA, Wagner Pinheiro.** *José Bonifácio e a questão indígena no projeto de construção do Estado nacional brasileiro* (2018). Repositório da USP.  
+    https://repositorio.usp.br/item/002996471
+
+13. **MultiRio.** *José Bonifácio e os Apontamentos para a Civilização dos Índios Bravos*.  
+    https://multirio.rio.rj.gov.br/index.php/historia-do-brasil/brasil-monarquico/8893-jos%C3%A9-bonif%C3%A1cio-seus-apontamentos-para-a-civiliza%C3%A7%C3%A3o-dos-%C3%ADndios-bravos
+
+*Nota editorial:* este artigo é um estudo didático e interpretativo, não uma transcrição de documentos nem um resumo de toda a historiografia. Os exercícios, tabelas e comparações foram criados para a aprendizagem. As propostas de Bonifácio são distinguidas dos atos efetivamente executados, e os termos históricos referentes a povos indígenas e escravidão são analisados criticamente.
+
+## 33. Meta antes da Lição 2
+
+Considere esta etapa consolidada quando conseguir:
+
+- [ ] Localizar Bonifácio no contexto colonial e na crise da monarquia portuguesa.
+- [ ] Explicar por que sua carreira científica é importante.
+- [ ] Distinguir soberania política e autonomia econômica.
+- [ ] Apresentar sua atuação de 1822 sem excluir outros participantes.
+- [ ] Reconhecer o papel dos conflitos provinciais na consolidação da Independência.
+- [ ] Explicar sua defesa da unidade sem atribuir todo o resultado a uma única pessoa.
+- [ ] Distinguir a proposta antiescravista de 1823 da publicação de 1825 e da abolição de 1888.
+- [ ] Identificar os elementos assimilacionistas de suas propostas para indígenas.
+- [ ] Explicar o conflito político e constitucional de 1823.
+- [ ] Diferenciar o que realizou, propôs e não conseguiu implementar.
+- [ ] Construir uma interpretação própria apoiada em fontes.
+
+## Conclusão: o Brasil independente ainda precisava ser construído
+
+José Bonifácio não industrializou o Brasil, não aboliu a escravidão e não transformou o país em potência. Atribuir a ele esses resultados seria falso.
+
+Sua importância é outra: **esteve entre os protagonistas da separação política de Portugal e formulou questões fundamentais sobre o Estado, a unidade territorial, o trabalho, a população e os recursos do país**.
+
+Essas formulações também tinham contradições. A crítica à escravidão não produziu emancipação imediata; os projetos relativos aos povos indígenas continham elementos de assimilação e tutela; e a defesa da autoridade central convivia com conflitos sobre representação e autonomia.
+
+A lição mais valiosa, portanto, não é decorar o título de “Patriarca da Independência”, e sim compreender que:
+
+> **Uma pessoa pode ajudar a criar condições políticas para o desenvolvimento sem produzir, sozinha, o desenvolvimento que imaginou.**
+
+Na **Lição 2**, estudaremos **Dom Pedro II**: as instituições imperiais, ciência e educação, infraestrutura e os limites de uma modernização que coexistiu com a escravidão.
+
+---
+
+**Resumo:** José Bonifácio de Andrada e Silva (1763–1838) combinou carreira científica e protagonismo político na Independência brasileira. Defendeu a unidade territorial e formulou projetos sobre escravidão, povos indígenas e organização nacional. Suas ideias não foram integralmente implementadas e várias continham pressupostos hierárquicos. Seu legado deve ser analisado como parte de um processo coletivo de formação do Estado, não como obra de um único fundador.
